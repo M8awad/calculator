@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CompanyCalculator.Api\\CompanyCalculator.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

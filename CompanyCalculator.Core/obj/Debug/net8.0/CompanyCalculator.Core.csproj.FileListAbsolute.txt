@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\bin\Debug\net8.0\CompanyCalculator.Core.deps.json
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\bin\Debug\net8.0\CompanyCalculator.Core.dll
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\bin\Debug\net8.0\CompanyCalculator.Core.pdb
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.dll
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\refint\CompanyCalculator.Core.dll
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.pdb
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\ref\CompanyCalculator.Core.dll
+C:\Users\DELL\source\repos\CompanyCalculator\CompanyCalculator.Core\obj\Debug\net8.0\CompanyCalculator.Core.csproj.AssemblyReference.cache

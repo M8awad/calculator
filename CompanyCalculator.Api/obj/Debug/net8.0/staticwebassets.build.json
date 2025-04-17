@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qDTJbtbO7ppQZoDnqsUrObVewm1Ybp13tTwZnx+Pa5I=",
+  "Source": "CompanyCalculator.Api",
+  "BasePath": "_content/CompanyCalculator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

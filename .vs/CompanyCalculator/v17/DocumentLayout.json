@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\helpers\\keydownbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\helpers\\keydownbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\helpers\\historypopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\helpers\\historypopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\models\\calculationhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\models\\calculationhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\models\\calculationoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\models\\calculationoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\models\\calculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\models\\calculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\models\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\models\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\viewmodels\\maincalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\viewmodels\\maincalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\companycalculator.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\companycalculator.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|solutionrelative:companycalculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|solutionrelative:companycalculator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.tests\\companycalculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|solutionrelative:companycalculator.tests\\companycalculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50D2D59-2D9D-4296-A26F-3B5CDE72EA91}|CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj|solutionrelative:companycalculator.tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyCalculator.Client\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.core\\interfaces\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7231D1B-0FAD-4DF7-8E20-47C1844CB98C}|CompanyCalculator.Core\\CompanyCalculator.Core.csproj|solutionrelative:companycalculator.core\\interfaces\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\companycalculator.client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\companycalculator.client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.client\\companycalculator.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E3D8F96-F11E-434A-91C2-0CB7978B4704}|CompanyCalculator.Client\\CompanyCalculator.Client.csproj|solutionrelative:companycalculator.client\\companycalculator.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\companycalculator.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\companycalculator.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\interfaces\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\interfaces\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|c:\\users\\dell\\source\\repos\\companycalculator\\companycalculator.api\\interfaces\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA041A74-1301-4D6F-AE88-5E90DA17F37F}|CompanyCalculator.Api\\CompanyCalculator.Api.csproj|solutionrelative:companycalculator.api\\interfaces\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculationOperation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationOperation.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\Models\\CalculationOperation.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationOperation.cs",
+              "RelativeToolTip": "CompanyCalculator.Core\\Models\\CalculationOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:05:11.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculationHistoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationHistoryItem.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\Models\\CalculationHistoryItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationHistoryItem.cs",
+              "RelativeToolTip": "CompanyCalculator.Core\\Models\\CalculationHistoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:39:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoryPopup.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\Helpers\\HistoryPopup.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\Helpers\\HistoryPopup.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\Helpers\\HistoryPopup.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\Helpers\\HistoryPopup.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:51:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyDownBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\Helpers\\KeyDownBehavior.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\Helpers\\KeyDownBehavior.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\Helpers\\KeyDownBehavior.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\Helpers\\KeyDownBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:16:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:55:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\App.xaml",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\App.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\App.xaml",
+              "RelativeToolTip": "CompanyCalculator.Client\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T13:32:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\AssemblyInfo.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:08:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationRequest.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\Models\\CalculationRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationRequest.cs",
+              "RelativeToolTip": "CompanyCalculator.Core\\Models\\CalculationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:05:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:55:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculationResult.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationResult.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\Models\\CalculationResult.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Models\\CalculationResult.cs",
+              "RelativeToolTip": "CompanyCalculator.Core\\Models\\CalculationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:06:49.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainCalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\ViewModels\\MainCalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\ViewModels\\MainCalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\ViewModels\\MainCalculatorViewModel.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\ViewModels\\MainCalculatorViewModel.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAcwP0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:48:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyCalculator.Core",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\CompanyCalculator.Core.csproj",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\CompanyCalculator.Core.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\CompanyCalculator.Core.csproj",
+              "RelativeToolTip": "CompanyCalculator.Core\\CompanyCalculator.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T13:31:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CompanyCalculator.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:09:39.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CompanyCalculator.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:15:33.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyCalculator.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj",
+              "RelativeDocumentMoniker": "CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj",
+              "RelativeToolTip": "CompanyCalculator.Tests\\CompanyCalculator.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T13:15:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Services\\Calculator.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\Services\\Calculator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Services\\Calculator.cs",
+              "RelativeToolTip": "CompanyCalculator.Core\\Services\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:16:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Tests\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Tests\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "CompanyCalculator.Tests\\CalculatorServiceTests.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:21:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\MainWindow.xaml",
+              "RelativeToolTip": "CompanyCalculator.Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T11:37:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "CompanyCalculator.Client\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAewKEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:11:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "CompanyCalculator.Api\\Services\\CalculatorService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:34:28.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CompanyCalculator.Api\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:32:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Interfaces\\ICalculator.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Core\\Interfaces\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Core\\Interfaces\\ICalculator.cs",
+              "RelativeToolTip": "CompanyCalculator.Core\\Interfaces\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:07:50.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompanyCalculator.Client",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "RelativeToolTip": "CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T21:56:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Services\\LoggingService.cs",
+              "RelativeToolTip": "CompanyCalculator.Api\\Services\\LoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:36:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CompanyCalculator.Api.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\CompanyCalculator.Api.http",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\CompanyCalculator.Api.http",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\CompanyCalculator.Api.http",
+              "RelativeToolTip": "CompanyCalculator.Api\\CompanyCalculator.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-09T13:13:53.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Program.cs",
+              "RelativeToolTip": "CompanyCalculator.Api\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:31:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ILoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Interfaces\\ILoggingService.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\Interfaces\\ILoggingService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Interfaces\\ILoggingService.cs",
+              "RelativeToolTip": "CompanyCalculator.Api\\Interfaces\\ILoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:35:31.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CompanyCalculator.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "RelativeDocumentMoniker": "CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "RelativeToolTip": "CompanyCalculator.Client\\CompanyCalculator.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T13:24:38.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOcUAAAAAAAAAADwv/MUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-09T13:13:07.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\appsettings.json",
+              "RelativeToolTip": "CompanyCalculator.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T13:07:52.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Interfaces\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "CompanyCalculator.Api\\Interfaces\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CompanyCalculator\\CompanyCalculator.Api\\Interfaces\\ICalculatorService.cs",
+              "RelativeToolTip": "CompanyCalculator.Api\\Interfaces\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:33:35.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

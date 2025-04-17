@@ -1,0 +1,71 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CompanyCalculator.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Calculator/calculate": {
+      "post": {
+        "tags": [
+          "Calculator"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculationRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculationRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculationRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CalculationOperation": {
+        "enum": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "CalculationRequest": {
+        "type": "object",
+        "properties": {
+          "operand1": {
+            "type": "number",
+            "format": "double"
+          },
+          "operand2": {
+            "type": "number",
+            "format": "double"
+          },
+          "operation": {
+            "$ref": "#/components/schemas/CalculationOperation"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
